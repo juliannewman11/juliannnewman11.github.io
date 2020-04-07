@@ -69,11 +69,11 @@ author:
 social-network-links:
   #rss: true
   email: "julianjllanos@outlook.com"
-  github: "https://github.com/juliannewman11"
+  github: " https://github.com/juliannewman11 "
   # twitter: daattali
    # facebook: deanattali
 #  reddit: yourname
-  linkedin: https://www.linkedin.com/in/julian-newman-b1481a168
+  linkedin: " https://www.linkedin.com/in/julian-newman-b1481a168 "
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -93,7 +93,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "julianjnewman1234.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "https://juliannewman11.github.io/juliannnewman11.github.io/"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
